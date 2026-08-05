@@ -92,7 +92,7 @@ Yet, while a clinician's empirical training can lead them to deduce that the sil
   <div style="flex: 1 1 350px;">
     <p>While this dialogue was created for the screen, its purpose isn't to dismiss pain with a pious formula—it is to dismantle the very platitudes that hurt people at the bedside.</p>
     
-    <p>Standard religious accounting often treats disease as an equation: if you have enough faith, you get healed; if you remain sick, your faith or life is somehow deficient. Joe rightly rejects that "karma math." This scene demonstrates the exact opposite. Jesus does not offer Little James a cheap promise of temporal biological repair, nor does He blame him for his limp.</p>
+    <p>Standard religious accounting often treats disease as an equation: if you have enough faith, you get healed; if you remain sick, your faith or life is somehow deficient. Dr. Namaste rightly rejects that "karma math." This scene demonstrates the exact opposite. Jesus does not offer Little James a cheap promise of temporal biological repair, nor does He blame him for his limp.</p>
     
     <p>Instead, He decouples divine love from physical health, affirming that a person carrying unhealed pain is neither defective nor forgotten. It reframes the sufferer's dignity: your life is not a waiting room for a miracle, but a profound witness of strength in weakness. Ultimately, it shifts hope away from transactional demands and anchors it in the Resurrection—the ultimate promise that physical decay is temporary, and our restoration is secure.</p>
   </div>
