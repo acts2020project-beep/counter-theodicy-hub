@@ -25,6 +25,5 @@ theme:
     - search.highlight
 
 nav:
-  - Overview: index.md
   - Home: index.md
   - Counter-Theodicy Framework: counter-theodicy.md
