@@ -1,5 +1,7 @@
-<h1 align="center">Standing at the Bedside Together: 
-  An Honest Look at Suffering and Hope</h1>
+<h1 align="center">
+  Standing at the Bedside Together:<br>An Honest Look at Suffering and Hope
+</h1>
+
 <h3 align="center"><em>An Orthodox Christian & Scientific Response to Is God Neutral?</em></h3>
 
 Welcome to our collaborative research laboratory, built to explore and respond to the important book, *Is God Neutral?* by J. Namaste, M.D. We are orthodox Christians who agree with Dr. Namaste that the deep suffering of the hospital ward deserves a completely honest response. We have built this space to test out ideas, share data, and look closely at the hardest questions a human being can ask.
