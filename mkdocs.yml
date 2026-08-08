@@ -1,5 +1,5 @@
 site_name: Counter-Theodicy Project
-site_url: https://countertheodicy.org
+site_url: https://counter-theodicy.com
 
 theme:
   name: material
@@ -26,4 +26,4 @@ theme:
 
 nav:
   - Home: index.md
-  - Counter-Theodicy Framework: counter-theodicy.md
+  - Counter-Theodicy: counter-theodicy.md
